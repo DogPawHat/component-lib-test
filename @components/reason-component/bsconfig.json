@@ -1,0 +1,16 @@
+{
+  "name": "ReasonComponent",
+  "sources": ["src"],
+  "bs-dependencies": ["reason-react", "bs-react-native"],
+  "reason": {
+    "react-jsx": 2
+  },
+  "package-specs": ["es6"],
+  "refmt": 3,
+  "sources": [
+    {
+      "dir": "src",
+      "subdirs": true
+    }
+  ]
+}

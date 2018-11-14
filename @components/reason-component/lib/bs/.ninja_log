@@ -1,0 +1,11 @@
+# ninja log v5
+0	51	1541698869	src/Main.mlast	1d79178f0d5cf8b0
+1	53	1541698869	src/index.mlast	ab4190fccded21b7
+51	76	1541698869	src/Main.mlast.d	e49e84077a9651b0
+53	87	1541698869	src/index.mlast.d	f0a2e6fa1df48169
+0	48	1541698869	src/Main.cmj	3aaefae4b722a868
+0	48	1541698869	/home/dogpawhat/Development/component-lib-test/@components/reason-component/lib/es6/src/Main.js	3aaefae4b722a868
+0	48	1541698869	src/Main.cmi	3aaefae4b722a868
+48	75	1541698869	src/index.cmj	323655254eb524d3
+48	75	1541698869	/home/dogpawhat/Development/component-lib-test/@components/reason-component/lib/es6/src/index.js	323655254eb524d3
+48	75	1541698869	src/index.cmi	323655254eb524d3
